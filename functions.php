@@ -5,6 +5,9 @@
  * @package HelloElementorChild
  */
 
+// Version of child theme
+define( 'HELLO_ELEMENTOR_CHILD_VERSION', '1.0.0' );
+
 /**
  * Load child theme css and optional scripts
  *
